@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(162, 176, 235);
+}
+.main-container{
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+    /* align-items: center; */
+    /* border: 2px solid red; */
+    padding: 10px;
+    font-size:30px;
+
+}
+.score-template{
+    /* border: 2px solid red; */
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    background-color: blueviolet;
+    margin: 20px 60px;
+}
+.score-template input,select,button{
+
+    padding: 20px;
+    border-radius: 10px;
+    border: none;
+    margin-left: 10px;
+    font-size: 20px;
+}
