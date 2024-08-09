@@ -33,3 +33,15 @@ body{
     margin-left: 10px;
     font-size: 20px;
 }
+#maindiv{
+    border:2px solid black ;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    font-size: 25px;
+    margin: 40px 55px;
+    padding: 20px;
+    color: black;
+    background-color: thistle;
+
+}
